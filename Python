@@ -1,4 +1,5 @@
 ##python code to convert tuple into dictionary
+## programme working fine
 def Convert(tup, di):
     for a, b in tup:
         di.setdefault(a, []).append(b)
