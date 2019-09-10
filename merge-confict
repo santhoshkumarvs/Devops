@@ -13,6 +13,6 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 
 <<<<<<<<<<<HEAD
-This line was commited while working in the "login-box" branch
+This line was committed while working in the "login-box" branch
 ========
 This line, in contrast, was committed while working in the "contact-form" branch.
