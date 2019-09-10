@@ -3,7 +3,8 @@ Print(This is the" devops-program")
 
 print(This is the" devops-program")
 print("Everything is fine")
-
+print("Redhat AMI created")
+print("suse AMI created")
 
 print("Linux AMI created")
 print("Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
