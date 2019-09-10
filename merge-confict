@@ -1,0 +1,18 @@
+$ git status
+# On branch contact-form
+# You have unmerged paths.
+#   (fix conflicts and run "git commit")
+#
+# Unmerged paths:
+#   (use "git add <file>..." to mark resolution)
+#
+#       both modified:   contact.html
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+
+
+
+<<<<<<<<<<<HEAD
+This line was commited while working in the "login-box" branch
+========
+This line, in contrast, was committed while working in the "contact-form" branch.
