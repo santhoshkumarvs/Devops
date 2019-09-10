@@ -1,6 +1,6 @@
 
-Print(This is the" devops-program")
-
+print(This is the" devops-program")
+print(This is the" devops-program")
 print(This is the" devops-program")
 print("Everything is fine")
 print("Redhat AMI created")
